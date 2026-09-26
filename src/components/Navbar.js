@@ -46,7 +46,7 @@ export default function Navbar({
 
 Navbar.propTypes={
     title:PropTypes.string.isRequired,
-    home:PropTypes.string.isRequired,
+    Home:PropTypes.string.isRequired,
     about:PropTypes.string.isRequired,
 
 }
